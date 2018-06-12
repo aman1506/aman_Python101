@@ -1,0 +1,5 @@
+For Bash
+#!/bin/bash
+
+For Perl
+#!/usr/bin/perl
