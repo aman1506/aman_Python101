@@ -1,0 +1,5 @@
+The Python interpreter has a number of functions and types built into it that are always available.
+Python has large number of built-in functions, and methods that makes life of a programmer easier.
+These funtions can be used by the programmers to perform various tasks which makes the programming easy.
+
+
